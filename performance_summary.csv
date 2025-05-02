@@ -1,0 +1,6 @@
+Metric,Value
+Best Model,XGB Residual
+RMSE Improvement over GARCH,17.13%
+Best Market Condition,High Volatility (+79.95%)
+Directional Accuracy,96.80% (vs. 100.00% for GARCH)
+Consistency (% outperformance),93.22%
